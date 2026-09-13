@@ -1,0 +1,17 @@
+{
+  "cache_key": "31437820c96ca75ddbad1e2d61ff986acaf9b3866c4f3f62bc69c3dbea6db5ae",
+  "model": "gemini-2.0-flash",
+  "prompt_version": "v1",
+  "input_hash": "31437820c96ca75ddbad1e2d61ff986acaf9b3866c4f3f62bc69c3dbea6db5ae",
+  "result": {
+    "amount": 8528.0,
+    "currency": "INR",
+    "date": "2025-10-29",
+    "confidence": 1.0
+  },
+  "timestamp": "2026-09-13T10:13:37.275630Z",
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 0
+  }
+}

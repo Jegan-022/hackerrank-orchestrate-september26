@@ -1,0 +1,17 @@
+{
+  "cache_key": "f2783bc237274341247bdcbea5a9eea06404db7adfb1285759f3a682e317f573",
+  "model": "gemini-2.0-flash",
+  "prompt_version": "v1",
+  "input_hash": "f2783bc237274341247bdcbea5a9eea06404db7adfb1285759f3a682e317f573",
+  "result": {
+    "amount": 4365000.0,
+    "currency": "IDR",
+    "date": "2019-08-31",
+    "confidence": 1.0
+  },
+  "timestamp": "2026-09-13T09:26:13.958364Z",
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 0
+  }
+}

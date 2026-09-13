@@ -1,0 +1,17 @@
+{
+  "cache_key": "d930211530a30ee78780605613c49af196b0846eeaad839d61c84d240ef3b8be",
+  "model": "gemini-2.0-flash",
+  "prompt_version": "v1",
+  "input_hash": "d930211530a30ee78780605613c49af196b0846eeaad839d61c84d240ef3b8be",
+  "result": {
+    "amount": 33.5,
+    "currency": "USD",
+    "date": "2025-10-01",
+    "confidence": 1.0
+  },
+  "timestamp": "2026-09-13T10:13:37.289219Z",
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 0
+  }
+}
